@@ -48,13 +48,13 @@ Please review the following checklist and mark each item as completed:
 # Additional Info:
 
 ## Types:
-ADDED - Added one or more things
-REMOVED - Removed one or more things
-CHANGED - Changed one or more things
-FIXED - Fixed one or more things
-IMPROVED - Improved one or more things
-MULTIPLE - Added/Removed/Changed/Fixed/Improved one or more things
-OTHER - Other type or no real type that can be used from the above list
+- ADDED - Added one or more things
+- REMOVED - Removed one or more things
+- CHANGED - Changed one or more things
+- FIXED - Fixed one or more things
+- IMPROVED - Improved one or more things
+- MULTIPLE - Added/Removed/Changed/Fixed/Improved one or more things
+- OTHER - Other type or no real type that can be used from the above list
 
 ## Example:
 <strong>See example below!</strong>
