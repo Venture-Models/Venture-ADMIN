@@ -56,8 +56,7 @@ Please review the following checklist and mark each item as completed:
 - MULTIPLE - Added/Removed/Changed/Fixed/Improved one or more things
 - OTHER - Other type or no real type that can be used from the above list
 
-## Example:
-<strong>See example below!</strong>
+<sub>See example below!</sub>
 
 <div>&nbsp;</div>
 
