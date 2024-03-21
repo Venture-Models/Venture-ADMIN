@@ -71,7 +71,7 @@ Please review the following checklist and mark each item as completed:
 ## Title: ADDED-COMMAND
 
 ## Description
-Added a new commands called:
+Added new commands called:
 - ;summon <name> <x> <y> <z> that allows you to "summon" object(s) to the world at that x, y and z coordinates with that name if no arguments are provided it default's to the player's character humanoid root part CFrame it gives an command error if no name is provided
 - ;unsummon <name> that removes the object from the world with that name, if no name is provided it will give an command error
 
