@@ -8,7 +8,7 @@ WIP
 
 ## Contributing
 
-We welcome any contributions from the community doesn't matter if its small, big or is just fixing up a spelling mistake, Of course there are some rules so please follow these guidelines when contributing to our project: [Contributing Guide](https://github.com/Venture-Models/Venture-ADMIN/CONTRIBUTING.md)
+We welcome any contributions from the community doesn't matter if its small, big or is just fixing up a spelling mistake, Of course there are some rules so please follow these guidelines when contributing to our project: [Contributing Guide](CONTRIBUTING.md)
 
 ## License
 
