@@ -2,7 +2,7 @@
 
 <div>&nbsp;</div>
 
-## Title: <TYPE>-<CHANGE>
+## Title: [TYPE]-[CHANGE]
 
 ## Description
 [Provide a brief description of the changes introduced by this pull request]
@@ -38,6 +38,26 @@ Please review the following checklist and mark each item as completed:
 
 ## Screenshots (if applicable)
 [Include screenshots or GIFs demonstrating the changes, if relevant]
+
+<div>&nbsp;</div>
+
+---
+
+<div>&nbsp;</div>
+
+# Additional Info:
+
+## Types:
+ADDED - Added one or more things
+REMOVED - Removed one or more things
+CHANGED - Changed one or more things
+FIXED - Fixed one or more things
+IMPROVED - Improved one or more things
+MULTIPLE - Added/Removed/Changed/Fixed/Improved one or more things
+OTHER - Other type or no real type that can be used from the above list
+
+## Example:
+<strong>See example below!</strong>
 
 <div>&nbsp;</div>
 
