@@ -1,5 +1,7 @@
 # Pull Request Format:
 
+<div>&nbsp;</div>
+
 ## Title: <TYPE>-<CHANGE>
 
 ## Description
@@ -44,6 +46,8 @@ Please review the following checklist and mark each item as completed:
 <div>&nbsp;</div>
 
 # Example:
+
+<div>&nbsp;</div>
 
 ## Title: ADDED-COMMAND
 
