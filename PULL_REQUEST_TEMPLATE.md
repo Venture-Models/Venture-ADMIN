@@ -37,7 +37,11 @@ Please review the following checklist and mark each item as completed:
 ## Screenshots (if applicable)
 [Include screenshots or GIFs demonstrating the changes, if relevant]
 
+
+
 ---
+
+
 
 # Example:
 
