@@ -1,11 +1,11 @@
 # Sections
 
 - Roblox
-  * MainModule
-  * Loader
+  * MainModule - Venture: ADMIN's Core
+  * Loader - Loader For MainModule
 
 - Discord
-  * Bot
+  * Bot - The Discord Bot
 
 - Web
-  * Dashboard, API & Website
+  * WDA - The Website, Dashboard & API
