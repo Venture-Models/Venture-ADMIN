@@ -3,10 +3,10 @@
 We welcome any contributions from the community doesn't matter if its small, big or is just fixing up a spelling mistake, Of course there are some rules so please follow these guidelines when contributing to our project:
 
 #### The Main Steps To Contributing
-- See Q & A.
+- See Q & A. > [Q & A](https://github.com/Venture-Models/Venture-ADMIN/blob/main/CONTRIBUTING.md#q--a)
 - Fork the repository and create your branch from `main`.
-- Make sure your code follows our coding standards and practices. [Q & A](https://github.com/Venture-Models/Venture-ADMIN/blob/main/CONTRIBUTING.md#q--a)
-- Ensure any necessary documentation is updated. [PULL_REQUEST_TEMPLATE.md](https://github.com/Venture-Models/Venture-ADMIN/blob/main/PULL_REQUEST_TEMPLATE.md)
+- Make sure your code follows our coding standards and practices. > [Q & A](https://github.com/Venture-Models/Venture-ADMIN/blob/main/CONTRIBUTING.md#q--a)
+- Ensure any necessary documentation is updated. > [PULL_REQUEST_TEMPLATE.md](https://github.com/Venture-Models/Venture-ADMIN/blob/main/PULL_REQUEST_TEMPLATE.md)
 - Submit a pull request with your changes, explaining the reasoning behind them.
 
 By contributing to this project, you agree to abide by the terms of the [Mozilla Public License 2.0](https://github.com/Venture-Models/Venture-ADMIN/blob/main/LICENSE).
