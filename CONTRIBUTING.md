@@ -5,6 +5,7 @@ We welcome any contributions from the community doesn't matter if its small, big
 #### The Main Steps To Contributing
 - See Q & A. > [Q & A](https://github.com/Venture-Models/Venture-ADMIN/blob/main/CONTRIBUTING.md#q--a)
 - Fork the repository and create your branch from `main`.
+- Port to roblox studio using: [Venture: SYNC](https://github.com/Venture-Models/Venture-SYNC)
 - Make sure your code follows our coding standards and practices. > [Q & A](https://github.com/Venture-Models/Venture-ADMIN/blob/main/CONTRIBUTING.md#q--a)
 - Ensure any necessary documentation is updated. > [PULL_REQUEST_TEMPLATE.md](https://github.com/Venture-Models/Venture-ADMIN/blob/main/PULL_REQUEST_TEMPLATE.md)
 - Submit a pull request with your changes, explaining the reasoning behind them.
@@ -18,8 +19,8 @@ A: Everything such as: Commands, Features, Fixed Bugs/Issues, Improved Code/Perf
 So long it follows the Contributing Guide
 
 #### Q: What Can I __Not__ Contribute?
-A: Anything that violates Roblox's rules (as in, anything that could get Venture: ADMIN or games using Venture: ADMIN in trouble) is not allowed for obvious reasons. 
-Additionally, please do not submit any form of obfuscated, malicious or unreadable code.
+A: Anything that violates Roblox's rules (As in, Anything that could get Venture: ADMIN or games using Venture: ADMIN in trouble) is not allowed for obvious reasons. 
+Additionally, please do not submit any form of obfuscated, malicious, overcomplicated or unreadable code.
 
 #### Q: Who's in charge of handling pull requests (PRs)?
 A: The Venture Models Team or Venture: ADMIN community maintainers are responsible for the final approval and merging of PRs, and the publishing of releases from time to time.
