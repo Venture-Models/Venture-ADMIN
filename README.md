@@ -4,7 +4,7 @@ Venture: ADMIN is a community-maintained moderation and administration suite for
 
 ## Getting Started
 
-WIP
+WIP, Please Wait Until The Alpha Release (0.0.X)
 
 ## Contributing
 
