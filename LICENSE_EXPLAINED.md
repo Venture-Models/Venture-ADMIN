@@ -17,11 +17,11 @@ This license outlines what you can and cannot do with the software created by Ve
 6. **Respect the Creators**: Keep track of who made the assets included with the software, and if you get permission to use something, give credit to the original creator.
 
 ### Don'ts:
-1. **Don't Pretend**: Don't use Venture Models' name to make it seem like they endorse something they don't.
+1. **Don't Pretend**: Don't use Venture Models name to make it seem like they endorse something they don't.
   
-2. **No Patent Claims**: You can't claim any special rights from Venture Models' patents.
+2. **No Patent Claims**: You can't claim any special rights from Venture Models patents.
   
-3. **No Trademark Use**: You can't use Venture Models' logos or brand names for your own purposes.
+3. **No Trademark Use**: You can't use Venture Models logos or brand names for your own purposes.
   
 4. **No Selling Copies**: You can't sell copies of the software.
   
