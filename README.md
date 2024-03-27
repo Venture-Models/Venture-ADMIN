@@ -12,7 +12,7 @@ We welcome any contributions from the community doesn't matter if its small, big
 
 ## License
 
-This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Venture Models Software License 1.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
