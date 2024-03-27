@@ -10,7 +10,7 @@ We welcome any contributions from the community doesn't matter if its small, big
 - Ensure any necessary documentation is updated. > [PULL_REQUEST_TEMPLATE.md](https://github.com/Venture-Models/Venture-ADMIN/blob/main/PULL_REQUEST_TEMPLATE.md)
 - Submit a pull request with your changes, explaining the reasoning behind them.
 
-By contributing to this project, you agree to abide by the terms of the [Mozilla Public License 2.0](https://github.com/Venture-Models/Venture-ADMIN/blob/main/LICENSE).
+By contributing to this project, you agree to abide by the terms of the [Venture Models Software License 1.0](https://github.com/Venture-Models/Venture-ADMIN/blob/main/LICENSE).
 
 ## Q & A:
 
