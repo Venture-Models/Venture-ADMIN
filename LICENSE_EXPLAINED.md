@@ -36,3 +36,6 @@ This license outlines what you can and cannot do with the software created by Ve
 
 ### Overall:
 This license allows you to use the software freely, but you need to play by the rules. Be transparent about any changes you make, respect the creators of the assets, and don't do anything sneaky with the software or its associated materials.
+
+### Disclaimer:
+- This simplified explained version of the license is not legal advice nor is it accurate to the orginal license, Please review and follow the orginal [license](https://github.com/Venture-Models/Venture-ADMIN/blob/main/LICENSE)!
